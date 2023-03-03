@@ -18,6 +18,6 @@ As entradas serão: o nome, o sobrenome e o ID de cada CleanCoder. A saída deve
 
 |Entrada|Saída|
 |---|---|
-|Kawan; Anthony; 22|Nome: Kawan Anthony ID: 22|
-|Renan; Oliveira; 98|Nome: Renan Oliveira ID: 98|
-|Marjory; Santos; 204|Nome: Marjory Santos ID: 204|
+|Kawan <br> Anthony <br> 22|Nome: Kawan Anthony ID: 22|
+|Renan <br> Oliveira <br> 98|Nome: Renan Oliveira ID: 98|
+|Marjory <br> Santos <br> 204|Nome: Marjory Santos ID: 204|
